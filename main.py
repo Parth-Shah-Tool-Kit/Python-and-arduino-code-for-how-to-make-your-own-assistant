@@ -1,3 +1,6 @@
+#By parth shah , Tool Kit
+# For explaination and testing, visit : https://youtu.be/mnNdOPMZdjQ
+
 import pyttsx3
 import speech_recognition as sr
 import datetime
